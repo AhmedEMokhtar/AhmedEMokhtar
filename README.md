@@ -14,9 +14,9 @@ I’m a passionate **Odoo Developer** with a strong interest in building scalabl
 I’m open to collaborating on **Odoo-related projects**, especially those involving custom module development, ERP integrations, or innovative business solutions. If you have an exciting project or idea, let’s connect!
 
 ### 📫 How to Reach Me
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website] (if applicable)
+- **Email**: Ahmed.Mokhtar@arab-security.com
+- **LinkedIn**: AhmedElsayed100
+
 
 ### 😄 Pronouns
 He/Him
